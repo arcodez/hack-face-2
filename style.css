@@ -1,0 +1,6 @@
+body, html {
+    background-image: url('https://inteng-storage.s3.amazonaws.com/images/NOVEMBER/sizes/color-2174065_1280_resize_md.png');
+    background-repeat: repeat;
+    object-fit: cover;
+    background-position: top;
+}
